@@ -1,0 +1,20 @@
+{
+  "name": "drawing-canvas",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev": "vite dev"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "sass": "^1.50.1",
+    "typescript": "^4.6.3",
+    "vite": "^2.9.5",
+    "vite-plugin-pwa": "^0.12.0"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
