@@ -4,7 +4,8 @@
   "scripts": {
     "build": "vite build",
     "preview": "vite preview",
-    "dev": "vite dev"
+    "dev": "vite dev",
+    "deploy": "yarn run build && gh-pages -d dist"
   },
   "license": "MIT",
   "devDependencies": {
